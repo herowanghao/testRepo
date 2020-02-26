@@ -1,4 +1,5 @@
-env:test
-user:
-  username:wanghao
-  password:pswd
+data:
+  env: localhost-test-8702
+  user:
+    username: wanghao
+    password: password-test
